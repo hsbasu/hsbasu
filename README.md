@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Himadri, a theoretical physicist with primary interests in Electro-hydrodynamics and its lattice-Boltzmann modelling. Find more about me at [my website][1].
+I am Himadri, a theoretical physicist by nature amr profession with primary interests in Electro-hydrodynamics and its lattice-Boltzmann modelling. Find more about me at [my website][1].
 
 ![My GitHub stats][2] ![Language Card][3]
 
