@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am Himadri, a theoretical physicist by nature and profession. At present, I am primariliy interested in Electro-hydrodynamics and its lattice-Boltzmann modelling. I spend most my leisure hours on freelance programming mainly using C++, HTML/CSS and Python. If you are intersted on my projects, visit [My Website][1] to Find more about me.
 
+![](https://komarev.com/ghpvc/?username=hsbasu)
+
 ![My GitHub stats][2] ![Language Card][3]
 
 [1]: https://hsbasu.github.io
